@@ -12,9 +12,7 @@ This is a simple user authentication system built with Python. It runs in the te
 
 ## 🧠 Technologies Used
 
-- Python 3.x
+- Python 3.13
 - JSON (built-in module)
 - Console I/O
 - Basic control flow (loops, conditionals)
-
-## 📂 File Structure
