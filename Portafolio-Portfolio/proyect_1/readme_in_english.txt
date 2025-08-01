@@ -18,4 +18,3 @@ This is a simple user authentication system built with Python. It runs in the te
 - Basic control flow (loops, conditionals)
 
 ## 📂 File Structure
-
