@@ -10,7 +10,7 @@ Este repositorio reúne mis proyectos personales, los cuales he desarrollado com
 - 🛠️ Enfocado en desarrollo backend y manejo de datos
 - 💻 Tecnologías principales: Python, Git, JSON, VS Code
 - 🌱 Actualmente aprendiendo: estructuras de datos, algoritmos y bases de datos
-- 📚 También estudio matemáticas aplicadas (cálculo, lógica y ecuaciones diferenciales)
+- 📚 También estudio matemáticas aplicadas (cálculo, lógica y ecuaciones diferenciales ordinarias)
 
 Me motiva crear soluciones funcionales, aprender de cada proyecto y crecer profesionalmente en el área del desarrollo backend.
 
